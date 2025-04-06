@@ -1,10 +1,3 @@
-
-<<<<<<< HEAD
-streamlit==1.27.0
-pandas==1.5.3
-plotly==5.14.1
-=======
-streamlit
-pandas
-plotly
->>>>>>> ce7db6deaac6c743fa4207bcbe4f084b0ce1f5d9
+streamlit==1.32.0
+pandas==2.1.4
+plotly==5.18.0
