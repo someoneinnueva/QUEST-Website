@@ -1,8 +1,0 @@
-[theme]
-base = "dark"
-
-[server]
-headless = true
-
-[layout]
-wide = true
