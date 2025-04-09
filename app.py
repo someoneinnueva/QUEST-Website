@@ -30,5 +30,9 @@ st.subheader("📜 Code Breakdown")
 report_link = "https://docs.google.com/presentation/d/1qizWfV1B1CJzF6_KA0qAXHtVL_DH6kXVqQgf41DnvzE"
 st.markdown(f"[View Full Report on Google Docs]({report_link})")
 
+st.subheader("📜 Documentation")
+report_link = "https://docs.google.com/document/d/1aIg41c8-Er_v6YZQZLjuL_m4pHcvxRDrxF0itna-qVw"
+st.markdown(f"[View Full Report on Google Docs]({report_link})")
+
 # Footer
 st.write("Made by Anay")
