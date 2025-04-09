@@ -1,2 +1,2 @@
-[layout]
-wide = true
+[client]
+layout = "wide"
