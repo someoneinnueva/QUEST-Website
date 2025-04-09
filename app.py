@@ -3,6 +3,8 @@ import streamlit as st
 import pandas as pd
 import plotly.io as pio
 
+st.set_page_config(layout="wide")
+
 # Title
 st.title("Fantasy Football AI Cheat Sheet")
 
